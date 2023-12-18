@@ -1,0 +1,60 @@
+body {
+    margin: 0; /* Elimină marginile implicite ale body */
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+   
+}
+
+.cool-md-4 form {
+    background-color: grey;
+}
+
+.product-image img {
+    width: 50%; /* Setează lățimea dorită pentru poze */
+    display: block;
+    margin-bottom: 10px;
+}
+
+.content {
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    top: 20%;
+    left: 10%; /* Ajustează poziționarea la stânga */
+    text-align: right;
+}
+
+.nav-area {
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+    padding: 0;
+}
+
+.nav-area li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.nav-area li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+}
+
+.logo img {
+    width: 150px;
+    height: auto;
+    float: left;
+}
+
+header {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(bg.jpg);
+    background-size: cover;
+    height: 10vh;
+    position: relative;
+}

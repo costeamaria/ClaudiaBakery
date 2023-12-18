@@ -1,0 +1,88 @@
+.txt-1 h1{
+    color:#fff;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 60px;
+    background-color: rgb(7, 5, 5);
+}
+
+.big-container{
+        background-image: url("bg.jpg");
+        
+}
+
+.big-container a{
+    border: 1px solid #fff;
+    padding: 10 px 25px;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #000;
+    margin-top: 20px;
+    display: inline-block;
+    background-color: rgb(7, 5, 5);
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.big-container table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo img{
+    width: 150px;
+    height: auto;
+    float:inline-start;
+}
+
+.txt-heading img{
+    width: 150px;
+    height: auto;
+    float: left;
+}
+
+.cart-buttons a{
+    border: 1px solid #fff;
+    padding: 10 px 25px;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #000;
+    margin-top: 20px;
+    display: inline-block;
+    background-color: rgb(7, 5, 5);
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.cart-buttons {
+    background-image: url("bg.jpg");
+    min-height: 100%;
+    min-width: 1024px;
+}
+
+.cart-buttons h1{
+    color:#fff;
+    text-align:justify;
+    text-transform:none;
+    font-size: 20px;
+}
+
+.modify-cl {
+    background-image: url("bg.jpg");
+    min-height: 100%;
+    min-width: 1024px;
+}
+
+.modify-cl form{
+    color:#000;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    background-color: rgb(253, 249, 249);
+}

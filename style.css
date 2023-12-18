@@ -1,0 +1,200 @@
+*{
+     margin: 0;
+     padding: 0;
+     font-family: montserrat;
+}
+
+.menu-area{
+    width: 1170px;
+    margin: auto;
+}
+
+header{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    position: relative;
+}
+
+.nav-area{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.nav-area li{
+    display:inline-block;
+}
+
+.nav-area li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: montserrat;
+    font-size: 16px;
+}
+
+.nav-area li a:hover{
+    background: #fff;
+    color:#000;
+}
+
+.logo img{
+    width: 150px;
+    height: auto;
+    float: left;
+}
+
+.content{
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin:20% 29%;
+    text-align: center;
+}
+
+.content h1{
+    color:#fff;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 60px;
+}
+
+.content p{
+    color: #fff;
+    padding: 15px 0;
+    line-height: 1.9;
+}
+
+.content a{
+    border: 1px solid #fff;
+    padding: 10 px 25px;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.content a:hover{
+    color:#000;
+    background: #fff;
+}
+
+.despre-noi{
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin:20% 29%;
+    text-align: center;
+}
+
+.despre-noi p{
+    color: #fff;
+    padding: 15px 0;
+    line-height: 1.9;
+}
+
+.despre-noi h1{
+    color:#fff;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 60px;
+}
+
+.login {
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin:20% 29%;
+    text-align: center;
+}
+
+.login a{
+    border: 1px solid #fff;
+    padding: 10 px 25px;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.login h1{
+    color:#fff;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 60px;
+}
+
+.product-image img{
+    max-width: 100%;
+    height: auto;
+    float:none;
+}
+
+.product-item form{
+    padding: 3em;
+    background-image: url(bg.jpg);
+}
+
+.txt-headinglabel{
+    color:#fff;
+    text-transform: uppercase;
+    font-size: 60px;
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin:20% 29%;
+    text-align: center;
+}
+
+.product-item{
+    color:#fff;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.register {
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin:20% 29%;
+    text-align: center;
+}
+
+.register i{
+    border: 1px solid #fff;
+    padding: 10 px 25px;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.register h1{
+    color:#fff;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 60px;
+}
+
+.txt-heading-label{
+    color:#fff;
+    text-transform: uppercase;
+    font-size: 60px;
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin:20% 29%;
+    text-align: center;
+}
+
+
